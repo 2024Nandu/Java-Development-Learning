@@ -8,4 +8,3 @@ public class TypeConversion {
     	  System.out.println(myInt);
       }
 }
-00
